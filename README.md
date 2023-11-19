@@ -18,22 +18,11 @@ In this book, I focused on studying the test using Rspec, Capybara, and FactoryB
   </tr>
 </table>
 
-Things you may want to cover:
+# Technology
+* ruby 2.5.8p224 (2020-03-31 revision 67882)
 
-* Ruby version
+* Rails 5.2.6
 
-* System dependencies
+* psql (PostgreSQL) 14.1 (Ubuntu 14.1-1.pgdg18.04+1)
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* view gemfile
